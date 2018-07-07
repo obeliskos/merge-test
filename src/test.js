@@ -11,3 +11,15 @@ function test2(a, b) {
 function test3() {
 
 }
+
+function test4() {
+
+}
+
+function test5() {
+
+}
+
+function test6() {
+   
+}
