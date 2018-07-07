@@ -51,3 +51,15 @@ function test5(a, b) {
 function test6(a, b) {
    return a % b;
 }
+
+function test10() {
+
+}
+
+function test11() {
+
+}
+
+function test12() {
+   
+}
